@@ -44,15 +44,14 @@ Welcome to my Cloud Resume Challenge project, Azure Edition! This project is des
 - Implemented CI/CD workflows for both backend and frontend using GitHub Actions. Automatic testing, packaging, and deployment on every code change.
 
 ### 14. Blog Post
-- Linked a [blog post](#) in the resume, sharing insights and lessons learned during the project.
+- Linked a in the resume, sharing insights and lessons learned during the project.
 
 ## Getting Started
 
 1. Clone this repository.
-2. Follow the steps in the [Azure Cloud Resume Challenge Guidebook](#) for detailed instructions.
-3. Customize the resume with your information.
-4. Deploy the static website and API on Azure following the provided guidelines.
-5. Access your resume at your custom DNS domain.
+2. Customize the resume with your information.
+3. Deploy the static website and API on Azure following the provided guidelines.
+4. Access your resume at your custom DNS domain.
 
 ## Technologies Used
 
@@ -72,5 +71,3 @@ Welcome to my Cloud Resume Challenge project, Azure Edition! This project is des
 Special thanks to the creators of the Cloud Resume Challenge for providing this hands-on opportunity to enhance my cloud and DevOps skills.
 
 ---
-
-Feel free to replace placeholder links like `#` with the actual links to your blog post or the Azure Cloud Resume Challenge Guidebook. Adjust the content to match your specific achievements and details about your project.
